@@ -13,6 +13,6 @@ public class MainTest {
 	
 	@Test
 	public void subtractionTest() {
-		assertTrue(2 - 1 == 0);
+		assertTrue(2 - 1 == 1);
 	}
 }
