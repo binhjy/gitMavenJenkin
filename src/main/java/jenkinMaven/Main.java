@@ -1,5 +1,5 @@
 package jenkinMaven;
 
 public class Main {
-	String111;
+	String;
 }
