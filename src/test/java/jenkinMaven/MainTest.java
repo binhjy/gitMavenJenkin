@@ -18,6 +18,6 @@ public class MainTest {
 	
 	@Test
 	public void divitionTest() {
-		assertTrue(2 / 1 == 1);
+		assertTrue(2 / 1 == 2);
 	}
 }
