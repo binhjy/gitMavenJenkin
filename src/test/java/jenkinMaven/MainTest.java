@@ -8,11 +8,11 @@ public class MainTest {
 
 	@Test
 	public void additionTest() {
-		assertTrue(2 + 1 == 2);
+		assertTrue(2 + 1 == 3);
 	}
 	
 	@Test
 	public void subtractionTest() {
-		assertTrue(2 - 1 == 0);
+		assertTrue(2 - 1 == 1);
 	}
 }
