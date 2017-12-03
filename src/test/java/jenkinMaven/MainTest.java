@@ -15,4 +15,9 @@ public class MainTest {
 	public void subtractionTest() {
 		assertTrue(2 - 1 == 1);
 	}
+	
+	@Test
+	public void divitionTest() {
+		assertTrue(2 / 1 == 2);
+	}
 }
