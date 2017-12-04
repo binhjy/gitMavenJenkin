@@ -8,7 +8,7 @@ public class MainTest {
 
 	@Test
 	public void additionTest() {
-		assertTrue(2 + 1 == 1);
+		assertTrue(2 + 1 == 3);
 	}
 	
 	@Test
